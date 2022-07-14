@@ -1,0 +1,11 @@
+footer::after{
+
+    content: "© Copyright Project TMS";
+
+}
+
+body{
+    background-image: url(https://img.freepik.com/free-photo/white-painted-wall-texture-background_53876-138197.jpg?w=2000);
+background-repeat: no-repeat;
+background-size: cover;
+}
